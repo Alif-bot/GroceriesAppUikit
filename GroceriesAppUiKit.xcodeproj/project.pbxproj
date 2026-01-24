@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C3F0CAF02F20AB5F00616320 /* Exceptions for "GroceriesAppUiKit" folder in "GroceriesAppUiKit" target */ = {
+		C3F0CAF02F20AB5F00616320 /* Exceptions for "Files" folder in "GroceriesAppUiKit" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -40,12 +40,12 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C3F0CACA2F20AB5D00616320 /* GroceriesAppUiKit */ = {
+		C3F0CACA2F20AB5D00616320 /* Files */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				C3F0CAF02F20AB5F00616320 /* Exceptions for "GroceriesAppUiKit" folder in "GroceriesAppUiKit" target */,
+				C3F0CAF02F20AB5F00616320 /* Exceptions for "Files" folder in "GroceriesAppUiKit" target */,
 			);
-			path = GroceriesAppUiKit;
+			path = Files;
 			sourceTree = "<group>";
 		};
 		C3F0CAE12F20AB5F00616320 /* GroceriesAppUiKitTests */ = {
@@ -88,7 +88,7 @@
 		C3F0CABF2F20AB5D00616320 = {
 			isa = PBXGroup;
 			children = (
-				C3F0CACA2F20AB5D00616320 /* GroceriesAppUiKit */,
+				C3F0CACA2F20AB5D00616320 /* Files */,
 				C3F0CAE12F20AB5F00616320 /* GroceriesAppUiKitTests */,
 				C3F0CAEB2F20AB5F00616320 /* GroceriesAppUiKitUITests */,
 				C3F0CAC92F20AB5D00616320 /* Products */,
@@ -121,7 +121,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C3F0CACA2F20AB5D00616320 /* GroceriesAppUiKit */,
+				C3F0CACA2F20AB5D00616320 /* Files */,
 			);
 			name = GroceriesAppUiKit;
 			packageProductDependencies = (
@@ -291,7 +291,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = MZDNY9Y7Q2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = GroceriesAppUiKit/Info.plist;
+				INFOPLIST_FILE = Files/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = "";
@@ -319,7 +319,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = MZDNY9Y7Q2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = GroceriesAppUiKit/Info.plist;
+				INFOPLIST_FILE = Files/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = "";
